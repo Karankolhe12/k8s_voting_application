@@ -47,16 +47,7 @@ Creating and deploying this cloud-native web voting application with Kubernetes 
 By working through this project, you'll develop a deeper understanding of cloud-native application development, containerization, Kubernetes, and the various technologies involved in building and deploying modern web applications.
 
 
-### **************************Steps to Deploy**************************
-
-Youtube Video to refer:
-
-[![Video Tutorial](https://img.youtube.com/vi/pTmIoKUeU-A/0.jpg)](https://youtu.be/pTmIoKUeU-A)
-
-Susbcribe:
-
-[https://www.youtube.com/@cloudchamp?
-](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
+### **************************Steps to Deploy**********************
 
 
 Create EKS cluster with NodeGroup (2 nodes of t2.medium instance type)
